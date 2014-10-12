@@ -1,0 +1,20 @@
+{
+  "name": "bookshelf",
+  "version": "0.0.0",
+  "description": "using knex, bookshelf and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "inde"
+  },
+  "keywords": [
+    "learning",
+    "bookshelf",
+    "and",
+    "knex"
+  ],
+  "author": "keith anderson",
+  "license": "1",
+  "dependencies": {
+    "knex": "^0.7.3"
+  }
+}
